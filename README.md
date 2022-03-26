@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dünya
-- 👀 I’m interested in web3 development and biohacking (the bioengineering side)
-- 🌱 I’m currently learning web (2.0) development, OOP and bioinformatics!
-- 💞️ I’m looking to collaborate on all things web3 and cool projects in general.
+- 👀 I’m interested in building for the decentralized web!
+- 🌱 I’m currently learning web development, the foundations of Bitcoin, and bioinformatics
+- 💞️ I’m looking to collaborate on all things web3 and creative - the crazier, the better
 - 📫 How to reach me: Twitter - Dunya8a
 
 <!---
