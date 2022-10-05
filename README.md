@@ -1,8 +1,4 @@
-- 👋 Hi, I’m Dünya
-- 👀 I’m interested in building things that do good (being fun also counts as doing good)!
-- 🌱 I’m currently learning, learning, learning
-- 💞️ Happy to collaborate - crazy ideas welcome :)
-- 📫 How to reach me: Twitter - Dunya8a
+👋🌎 Hi, I’m Dünya. I'm currently doing a Bioinformatics Master coming from a neuroscience background. My interests span a large variety of fields, from (artificial) intelligence to sustainability to societal governance. I aim to be involved in the startup scene and like to learn best practices in tech, product and business development, design and marketing. You can find out more about me on LinkedIn https://www.linkedin.com/in/dunya-baradari-007/ and read about my thoughts on my blog https://dunya-baradari.com/. ✨
 
 <!---
 Dunya-8a/Dunya-8a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
