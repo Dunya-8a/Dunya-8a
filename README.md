@@ -1,6 +1,4 @@
-👋🌎 Hi, I’m Dünya. I come from a neuroscientist background and have transitioned into CS and product mgmt.
-
-I'm excited about groundbreaking new technologies that can propel humanity forward. I like to philosophize about life, check out my blog if you're interested. ✨
+👋 Hi, I’m Dünya. 🌎 I am a transdisciplinary developer building cognitive augmentation technologies. More on me here: [https://dunya-baradari.com/](https://dunya-baradari.com/).
 
 <!---
 Dunya-8a/Dunya-8a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
