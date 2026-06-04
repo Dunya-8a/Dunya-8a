@@ -1,8 +1,8 @@
 👋 Hi, I’m Dünya. 🌎 I work towards human-machine symbiosis & cyborgs.
 
-🧠 Website: [https://dunya-baradari.com/](https://dunya-baradari.com/).
-🔭 Building: AI-augmented dev workflows
-💫 Running: [Augmentation Lab](https://augmentationlab.org/) + something new 👀
+- 🧠 Website: [https://dunya-baradari.com/](https://dunya-baradari.com/).
+- 🔭 Building: AI-augmented dev workflows
+- 💫 Running: [Augmentation Lab](https://augmentationlab.org/) + something new 👀
 
 ![Metrics](/github-metrics.svg)
 
