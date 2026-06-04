@@ -1,9 +1,9 @@
   name: Metrics
   on:
-    schedule: [{ cron: "0 14 * * *" }]   # daily (~6–7am PT)
-    workflow_dispatch:                    # manual "Run workflow" button
-    push: { branches: ["main"] }          
-    
+    schedule: [{ cron: "0 14 * * *" }]
+    workflow_dispatch:
+    push: { branches: ["main"] }
+
   jobs:
     github-metrics:
       runs-on: ubuntu-latest
@@ -11,20 +11,16 @@
         contents: write
       steps:
         - uses: lowlighter/metrics@latest
-          with: 
+          with:
             token: ${{ secrets.METRICS_TOKEN }}
             user: Dunya-8a
-            base: header, activity, community, repositories, metadata
+            base: header, activity                # 2,731 commits + 42 PRs; drops the 0-heavy sections
             config_timezone: America/Los_Angeles
-            repositories_affiliations: owner, collaborator, organization_member  # incl. private/org
-            
-            plugin_isocalendar: yes                 # 3D contribution calendar
-            plugin_isocalendar_duration: full-year  
+            repositories_affiliations: owner, collaborator, organization_member
+
+            plugin_isocalendar: yes               # 3D calendar + streaks + commits/day (your strongest)
+            plugin_isocalendar_duration: full-year
             plugin_languages: yes
             plugin_languages_details: percentage
-            plugin_languages_limit: 8 
-            plugin_lines: yes                       # lines changed
-            plugin_activity: yes                    
-            plugin_activity_limit: 5
-            plugin_habits: yes                      # busiest days/hours
-            plugin_habits_charts: yes
+            plugin_languages_limit: 8
+            # removed: plugin_habits + plugin_activity (errored), plugin_lines (showed 0)
