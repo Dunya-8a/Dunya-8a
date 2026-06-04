@@ -1,3 +1,6 @@
+ # Generates github-metrics.svg for the profile README (lowlighter/metrics).
+  # Requires a repo secret METRICS_TOKEN — classic PAT with: repo, read:org, read:user.
+  # The token expires — renew it when the card stops updating.
   name: Metrics
   on:
     schedule: [{ cron: "0 14 * * *" }]   # daily, ~6–7am PT
