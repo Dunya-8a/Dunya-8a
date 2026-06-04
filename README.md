@@ -1,7 +1,7 @@
-👋 Hi, I’m Dünya. 🌎 I am a transdisciplinary developer building cognitive augmentation technologies. More on me here: [https://dunya-baradari.com/](https://dunya-baradari.com/).
+👋 Hi, I’m Dünya. 🌎 I work towards human-machine symbiosis & cyborgs.
 
-🧠 On the journey towards: human-machine symbiosis & cyborgs
-🔭 Working on: AI-augmented dev workflows
+🧠 Website: [https://dunya-baradari.com/](https://dunya-baradari.com/).
+🔭 Building: AI-augmented dev workflows
 💫 Running: [Augmentation Lab](https://augmentationlab.org/) + something new 👀
 
 ![Metrics](/github-metrics.svg)
